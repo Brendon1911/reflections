@@ -20,16 +20,19 @@ docs does?
     
     Auto Pros   - Easy since it's automatic.
                 
-    Auto Cons   - Doesn't give you very much control and runs the risk of making commits that don't make sense.
+    Auto Cons   - Doesn't give you very much control and runs the risk of making 
+                commits that don't make sense.
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Because, when coding, different files often work together. For example; a web page may need an HTML, CSS and JavaScript file in order to run properly.
+    Because, when coding, different files often work together. For example; a web page 
+    may need an HTML, CSS and JavaScript file in order to run properly.
 
 How can you use the commands git log and git diff to view the history of files?
 
-    I can use these commands to easily view the differences between the different versions of the same file.
+    I can use these commands to easily view the differences between the different versions 
+    of the same file.
 
 How might using version control make you more confident to make changes that
 could break something?

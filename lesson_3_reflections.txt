@@ -8,3 +8,16 @@ stay up-to-date with your remote repository?
 
   Because that way, I can choose wether or not I want to add the changes to my github repository 
   to my local git repository.
+
+3. Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+  Forks - Forks are clones of other people's repository's which is exclusive to Github.
+          You would use forks when you don't have access to clone someone elses repository.
+
+  Clones - A clone is an exact duplicate of a repository.
+           You would use this when you do have access to a repository.
+
+  Branches - Branches are commits which branch off of the main line of commits.
+             These are great for when you want to change something to the main project without 
+             interfering with the master branch.

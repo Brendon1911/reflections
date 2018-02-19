@@ -34,3 +34,12 @@ and what would be harder?
   I wouldn't collaborate without Git ot Github.
 
   It would make everything much more difficult.
+
+6. When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+  I would want to make changes in a separate branch from the master branch when I'd like to 
+  make a side change to see how well it would fit into the master branch.
+
+  The main benefit of this approach is that it allows you the freedom to test and make changes 
+  without worrying about breaking anything in the main branch.

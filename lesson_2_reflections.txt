@@ -23,6 +23,12 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+    The diagrams make it easy to visualize what the master branch is and how all other branches 
+    branch off of it.
+    
+    This also makes it easy to see what the other branches relationships are with the 
+    master branch
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 

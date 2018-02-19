@@ -32,5 +32,10 @@ organized? How would branches help?
 6. What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+    Merging two branches together is a great way to introduce changes you want to apply to The
+    main branch without having to insert that change manually.
+
+    Plus, you can always view the previous commits for the other branches through the main branch.
+
 7. What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?

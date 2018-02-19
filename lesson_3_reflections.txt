@@ -21,3 +21,9 @@ When would you use one instead of another?
   Branches - Branches are commits which branch off of the main line of commits.
              These are great for when you want to change something to the main project without 
              interfering with the master branch.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  The benefit is that if you're moving on to a state where you don't have internet access, 
+  having the last known state of the remote stored locally is a great way to allow you to 
+  continue to add to the project.
